@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AIT-Solutions\\08-GIT\\dataplatform\\SQL Server\\01-Topics\\SQL Server Topics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4D5027-CC07-1EB9-0718-056CA74AEDEB}|SQL Server Topics\\SQL Server Topics.ssmssqlproj|C:\\AIT-Solutions\\08-GIT\\dataplatform\\SQL Server\\01-Topics\\SQL Server Topics\\SQL Server Topics\\Operators.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{3D4D5027-CC07-1EB9-0718-056CA74AEDEB}|SQL Server Topics\\SQL Server Topics.ssmssqlproj|solutionrelative:SQL Server Topics\\Operators.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4D5027-CC07-1EB9-0718-056CA74AEDEB}|SQL Server Topics\\SQL Server Topics.ssmssqlproj|C:\\AIT-Solutions\\08-GIT\\dataplatform\\SQL Server\\01-Topics\\SQL Server Topics\\SQL Server Topics\\02-SQL Server Sub Launguages.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{3D4D5027-CC07-1EB9-0718-056CA74AEDEB}|SQL Server Topics\\SQL Server Topics.ssmssqlproj|solutionrelative:SQL Server Topics\\02-SQL Server Sub Launguages.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Operators.sql - DESKTOP-4HA34RQ\\AITSOLUTIONS_DEV.SQL_Practice (DESKTOP-4HA34RQ\\user (54))",
+              "DocumentMoniker": "C:\\AIT-Solutions\\08-GIT\\dataplatform\\SQL Server\\01-Topics\\SQL Server Topics\\SQL Server Topics\\Operators.sql",
+              "RelativeDocumentMoniker": "SQL Server Topics\\Operators.sql",
+              "ToolTip": "Operators.sql - DESKTOP-4HA34RQ\\AITSOLUTIONS_DEV.SQL_Practice (DESKTOP-4HA34RQ\\user (54))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-11-07T18:11:06.477Z",
+              "EditorCaption": " - DESKTOP-4HA34RQ\\AITSOLUTIONS_DEV.SQL_Practice (DESKTOP-4HA34RQ\\user (54))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "02-SQL Server Sub Launguages.sql - DESKTOP-4HA34RQ\\AITSOLUTIONS_DEV.SQL_Practice (DESKTOP-4HA34RQ\\user (55))",
+              "DocumentMoniker": "C:\\AIT-Solutions\\08-GIT\\dataplatform\\SQL Server\\01-Topics\\SQL Server Topics\\SQL Server Topics\\02-SQL Server Sub Launguages.sql",
+              "RelativeDocumentMoniker": "SQL Server Topics\\02-SQL Server Sub Launguages.sql",
+              "ToolTip": "02-SQL Server Sub Launguages.sql - DESKTOP-4HA34RQ\\AITSOLUTIONS_DEV.SQL_Practice (DESKTOP-4HA34RQ\\user (55))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-11-07T17:40:09.842Z",
+              "EditorCaption": " - DESKTOP-4HA34RQ\\AITSOLUTIONS_DEV.SQL_Practice (DESKTOP-4HA34RQ\\user (55))"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

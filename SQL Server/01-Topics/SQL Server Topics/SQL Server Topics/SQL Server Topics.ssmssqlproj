@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="SQL Server Topics">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-4HA34RQ\AITSOLUTIONS_DEV:DESKTOP-4HA34RQ\user">
+          <Created>2026-11-07T23:10:10.3939924+05:30</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-4HA34RQ\AITSOLUTIONS_DEV</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <TrustServerCertificate>True</TrustServerCertificate>
+          <EncryptionOption>True</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01-Creation of databases.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-4HA34RQ\AITSOLUTIONS_DEV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-4HA34RQ\AITSOLUTIONS_DEV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>01-Creation of databases.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02-SQL Server Sub Launguages.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-4HA34RQ\AITSOLUTIONS_DEV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-4HA34RQ\AITSOLUTIONS_DEV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>02-SQL Server Sub Launguages.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Operators.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-4HA34RQ\AITSOLUTIONS_DEV:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-4HA34RQ\AITSOLUTIONS_DEV</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Operators.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
